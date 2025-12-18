@@ -1,5 +1,5 @@
 {
-    "version": "v3.9.17",
-    "url": "https://github.com/DeepSeaHK/MagicStreamStudio/releases/download/v3.9.17/MagicStreamStudio.exe",
-    "log": "初始化版本发布"
+    "version": "v3.9.18",
+    "url": "https://github.com/YourName/MagicStream-Update/releases/download/v3.9.18/MagicStreamStudio_Setup_v3.9.18.exe",
+    "log": "1. 修复了激活窗口遮挡问题\n2. 优化了网络连接速度\n3. 新增了自动检测更新功能"
 }
