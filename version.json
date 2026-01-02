@@ -1,5 +1,5 @@
 {
-    "version": "v3.9.18",
-    "url": "https://github.com/YourName/MagicStream-Update/releases/download/v3.9.18/MagicStreamStudio_Setup_v3.9.18.exe",
-    "log": "1. 修复了激活窗口遮挡问题\n2. 优化了网络连接速度\n3. 新增了自动检测更新功能"
+    "version": "v3.9.23 Pro (Speed Boost)",
+    "url": "https://github.com/DeepSeaHK/MagicStreamStudio/releases/download/v3.9.23/MagicStream_Update_v3.9.23.exe",
+    "log": "1. 🚀 启用 NVENC 全链路硬件加速 (解码+编码)，转码速度提升 500%！\n2. ⚡ 优化 TS 直播流转码兼容性\n3. 🐛 修复 Windows 路径空格导致的转码失败问题"
 }
